@@ -9,6 +9,11 @@ Ajudei em um projeto open source para crianças com TEA. Fiz a tela de login e v
 
 https://github.com/victorYghor/loryblu-android/assets/124019555/8a4202c0-8ff8-40bd-aa11-d0963332c1a1
 
+## [UnscrambleWord](https://github.com/victorYghor/unscrableWords)
+jogo em que você precisa advinhar a palavra original a apartir da versão com letras trocadas. Utilizei XML e kotlin 
+
+https://github.com/victorYghor/unscrableWords/assets/124019555/a74b632d-803c-47a3-80cd-51971e3ecc9b
+
 ## [jokempo](https://github.com/victorYghor/jokempo)
 aplicativo em que coloquei em pratica meus conhecimentos de java, XML, e conceitos de activity no android. O aplicativo escolhe aleatoriamente entre pedra papel e tesoura e compara com o jogador para tirar a decisão de quem venceu.
 
