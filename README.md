@@ -9,6 +9,11 @@ Ajudei em um projeto open source para crianças com TEA. Fiz a tela de login e v
 
 https://github.com/victorYghor/loryblu-android/assets/124019555/8a4202c0-8ff8-40bd-aa11-d0963332c1a1
 
+## [jokempo](https://github.com/victorYghor/jokempo)
+aplicativo em que coloquei em pratica meus conhecimentos de java, XML, e conceitos de activity no android. O aplicativo escolhe aleatoriamente entre pedra papel e tesoura e compara com o jogador para tirar a decisão de quem venceu.
+
+https://github.com/victorYghor/VictorYghor/assets/124019555/73a09526-047d-4a8e-a982-6313af435682
+
 ## [listaDeContatos](https://github.com/victorYghor/ListaDeContatos)
 aplicativo que salva a lista de contatos com room.
 
