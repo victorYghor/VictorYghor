@@ -16,6 +16,7 @@ https://github.com/victorYghor/ListaDeContatos/assets/124019555/09f6ee11-6a8a-48
 
 ## [mars-photos](https://github.com/victorYghor/Mars-photos)
 Usando retrofit para mostrar fotos da superficie de marte. Mostrar uma imagem de erro se não conseguir pegar a imagem.
+Utilizei: XML, kotlin, retrofit
 
 https://github.com/victorYghor/Mars-photos/assets/124019555/359ac4a9-f80e-4f42-9b58-9c7a057d618c
 
