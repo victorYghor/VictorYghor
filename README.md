@@ -9,6 +9,12 @@ Ajudei em um projeto open source para crianças com TEA. Fiz a tela de login e v
 
 https://github.com/victorYghor/loryblu-android/assets/124019555/8a4202c0-8ff8-40bd-aa11-d0963332c1a1
 
+## [firebase-codelab](https://github.com/victorYghor/firebase-codelab)
+app que utiliza o firebase auth e firestore para criar um app de chat em que as pessoas podem se comunicar. Utilizei XML, kotlin e java
+
+https://github.com/victorYghor/VictorYghor/assets/124019555/c9d2a9b8-974c-492d-9fed-edde2dfb4957
+
+
 ## [UnscrambleWord](https://github.com/victorYghor/unscrableWords)
 jogo em que você precisa advinhar a palavra original a apartir da versão com letras trocadas. Utilizei XML e kotlin. Arquitetura MVVM
 
