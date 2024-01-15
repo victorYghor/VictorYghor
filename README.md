@@ -1,3 +1,11 @@
+# Sobre mim
+A veia empreendedora sempre pulsou em mim, e nunca fico parado frente as adversidades. Já vendi sacole e palha italiana para pagar minha faculdade e enfretei inúmeros desafios de um empreendedor. Todos esses desafios para mim foram opotunidades de melhorar minha habilidade de persuasão e me conectar com as pessoas.
+![photo_2024-01-15_16-56-15](https://github.com/victorYghor/VictorYghor/assets/124019555/499453bd-8930-41b4-8af8-60c221fd26c1)
+E claro não teria chegado onde cheguei sem o suporte e os amigos que fiz no caminho.
+![photo_2024-01-15_17-01-44](https://github.com/victorYghor/VictorYghor/assets/124019555/d1df3724-eeaf-440b-a6be-a7fc1747f3c0)
+A tematica de empreendorismo sempre me chamou a atenção por causa disso sempre participei de inúmeros eventos sobre empreendorismo e inovação.
+![IMG-20230824-WA0071](https://github.com/victorYghor/VictorYghor/assets/124019555/16734ff3-2fc0-4127-9613-cbfebf88a9b7)
+
 # My projects
 ## [todolist](https://github.com/victorYghor/ListaDeTarefas)
 No app é possível criar, editar e excluir individualmente tarefas e excluir todas as tarefas de uma só vez.
